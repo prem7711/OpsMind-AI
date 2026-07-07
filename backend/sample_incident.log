@@ -1,0 +1,8 @@
+2026-07-06T10:00:03Z INFO checkout-service handling request /checkout
+2026-07-06T10:00:41Z WARN checkout-service db pool at 92% utilization
+2026-07-06T10:01:02Z ERROR checkout-service could not acquire DB connection: pool exhausted
+2026-07-06T10:01:03Z ERROR checkout-service could not acquire DB connection: pool exhausted
+2026-07-06T10:01:15Z ERROR checkout-service could not acquire DB connection: pool exhausted
+2026-07-06T10:01:16Z FATAL checkout-service request /checkout failed with 500 after 3 retries
+2026-07-06T10:01:40Z ERROR checkout-service could not acquire DB connection: pool exhausted
+2026-07-06T10:02:05Z WARN checkout-service db pool at 100% utilization
